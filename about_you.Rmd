@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Matias Lucha"
 output: 
   html_document:
     number_sections: true
@@ -18,7 +18,7 @@ Where did you attend High School, and did you graduate? Compare english class to
   
 ### my answer     
   
-
+I went to The Palmdale Aerospace Academy, graduated in 2023. Math was definitely easier and more black and white in its concepts. I did best in science and health classes.
      
 
 
